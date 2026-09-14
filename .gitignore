@@ -1,0 +1,6 @@
+src-materials/
+shaderc
+shaderc.exe
+build/
+*.material.bin
+__pycache__/

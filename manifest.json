@@ -4,15 +4,15 @@
       "description": "Developed by §aEldeston§f, presented by §9FlameRender §fStudios.",
       "name": "ESTN Shaders §9Github Edition",
       "uuid": "b71aa6e5-4c13-4dd3-8629-a4357207ad68",
-      "version": [1, 6, 3],
-      "min_engine_version": [1, 12, 0]
+      "version": [2, 0, 0],
+      "min_engine_version": [1, 26, 0]
    },    
    "modules": [
       {
          "description": "Developed by §aEldeston§l, presented by §9FlameRender §fStudios",
             "type": "resources",
             "uuid": "f07076cd-6e70-44ef-a2e6-73686d201c81",
-            "version": [1, 6, 3]
+            "version": [2, 0, 0]
 		}
 	]
 }
